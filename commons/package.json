@@ -1,0 +1,17 @@
+{
+  "name": "@aaylmao/blogging-commons",
+  "version": "1.0.0",
+  "description": "Shared types and validators for blogging app",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "zod": "^4.4.3"
+  }
+}

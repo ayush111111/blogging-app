@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://my-worker.lokareaayush.workers.dev"
